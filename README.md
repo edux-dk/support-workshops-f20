@@ -28,13 +28,38 @@ A part of the data workflow is preparing the data for analysis. Some of this inv
 
 This lesson will teach you to use OpenRefine to effectively clean and format data and automatically track any changes that you make. Many people comment that this tool saves them literally months of work trying to make these edits by hand.
 
-`Preparation` install [OpenRefine](https://openrefine.org/), first download [DOWNLOAD](https://openrefine.org/download.html) then follow these installation instructions [INSTALL](https://datacarpentry.org/openrefine-socialsci/setup.html). `Tech support` will provide support for installation of OpenRefine on Oct. 23 08:00-09:00 AM.
+`Preparation`: install [OpenRefine](https://openrefine.org/), first [DOWNLOAD](https://openrefine.org/download.html) then follow these installation instructions [INSTALL](https://datacarpentry.org/openrefine-socialsci/setup.html). `Tech support` will provide support for installation of OpenRefine on Oct. 23 08:00-09:00 AM.
 
 The workshop is cloned and modified from [OpenRefine for Social Science Data](https://datacarpentry.org/openrefine-socialsci/).
 
 ### Basic Scripting with Python ###
 
+The workshop (consists of two episodes) introduces how researchers can use basic scripting in Python (and R) to manipulate data, automate analysis, and make research pipelines reproducible. To goal is to provide tools that make it easier to get more done with less work, while, at the the same time,facilitate open and reproducible science.
+
+The lessons will teach you how to use variables, data structures, control structures, functions, and error handling in Python. We use [Jupyter Notebooks](https://jupyter.org/) to interactively run Python code in the browser.   
+
+`Preparation`: Jupyter is offered in the Cloud by `tech support`, but should you want to install it locally, please download and install the individial [Anaconda Distribution](https://www.anaconda.com/products/individual) and [obtain lesson material](https://swcarpentry.github.io/python-novice-inflammation/setup.html) and follow [Option A: Jupyter Notebook](https://swcarpentry.github.io/python-novice-inflammation/setup.html).
+
 ### Introduction to Web-Scraping ###
+
+The workshop introduces to basic internet technology and how to automatically query and extract data available through the internet using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) and [Hyphe](https://hyphe.medialab.sciences-po.fr/):
+
+1. How does the internet work?
+ - The structure of internet and the web: IP, DNS, browser, HTML...
+ - What you need to know as a scholar.
+2. Accessing the internet with Python
+ - Making a HTTP request
+ - Downloading basic data
+3. Parsing HTML with Beautiful Soup in Python
+ - Dealing with web data
+ - Writing a simple script
+4. Web Crawlers
+ - Differences between scraping and crawling
+ - Different tools for different needs (harvesting, exploring, archiving...)
+ - An example with the crawler Hyphe
+5. Working with the internet
+ - Methodological, ethical and legal considerations
+
 
 ### Machine Learning with Python ###
 
@@ -47,23 +72,3 @@ The workshop is cloned and modified from [OpenRefine for Social Science Data](ht
 2. Basic scripting (python & r) **october 30**, **November 12**. Organiser: Ross
 3. Web scraping, **Between November 12-30**. Organiser: Mathieu
 4. Holiday Special Machine learning (scikit-learn) **December 4** Organiser Kristoffer
-
-
-
-
-
-1. How does the internet work? (Mathieu)
- - The structure of internet and the web: IP, DNS, browser, HTML...
- - What you need to know as a scholar.
-2. Accessing the internet with Python (Kristian)
- - Making a HTTP request
- - Downloading basic data
-3. Parsing HTML with Beautiful Soup in Python (Kristian)
- - Dealing with web data
- - Writing a simple script
-4. Web Crawlers (Kristian & Mathieu)
- - Differences between scraping and crawling
- - Different tools for different needs (harvesting, exploring, archiving...)
- - An example with the crawler Hyphe
-5. Working with the internet (Kristian & Mathieu)
- - Methodological, ethical and legal considerations
