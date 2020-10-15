@@ -40,18 +40,26 @@ The lessons will teach you how to use variables, data structures, control struct
 
 `Preparation`: Jupyter is offered in the Cloud by `tech support`, but should you want to install it locally, please download and install the individial [Anaconda Distribution](https://www.anaconda.com/products/individual) and [obtain lesson material](https://swcarpentry.github.io/python-novice-inflammation/setup.html) and follow [Option A: Jupyter Notebook](https://swcarpentry.github.io/python-novice-inflammation/setup.html).
 
-| Episode | Content |
-| ------ |-------|
-| A Python Calculator  | R.D. Kristensen-McLachlan & K.L. Nielbo |
-| Analyzing Tabular Data  | R.D. Kristensen-McLachlan & K.L. Nielbo |
-| Visualizing Tabular Data  | R.D. Kristensen-McLachlan & K.L. Nielbo |
-| Repeating Operations  | R.D. Kristensen-McLachlan & K.L. Nielbo |
-| Collections of Values  | R.D. Kristensen-McLachlan & K.L. Nielbo |
-| Analyzing Multiple Files  | R.D. Kristensen-McLachlan & K.L. Nielbo |
-| Logical Conditions  | R.D. Kristensen-McLachlan & K.L. Nielbo |
-| Packaging Code in functions  | R.D. Kristensen-McLachlan & K.L. Nielbo |
-| Errors and Exceptions  | R.D. Kristensen-McLachlan & K.L. Nielbo |
-
+| Episode | Content | Instructor |
+| ------ |-------| -------|
+| A Python Calculator | Basic data type  | R.D. Kristensen-McLachlan & K.L. Nielbo |
+|   | Variable assignment  |   |
+| Analyzing Tabular Data | Why tabular data?   | R.D. Kristensen-McLachlan & K.L. Nielbo |
+|   | Process tabular data  |   |
+| Visualizing Tabular Data | Basic visualization | R.D. Kristensen-McLachlan & K.L. Nielbo |
+|   | Group visualizations |   |
+| Repeating Operations | Computers love repetitions   | R.D. Kristensen-McLachlan & K.L. Nielbo |
+|   | applying same operation on different values |   |
+| Collections of Values | How to bundle values  | R.D. Kristensen-McLachlan & K.L. Nielbo |
+|   | list operations |   |
+| Analyzing Multiple Files |  Read many files  | R.D. Kristensen-McLachlan & K.L. Nielbo |
+|   | Visualize many files  |   |
+| Logical Conditions |  Making choices | R.D. Kristensen-McLachlan & K.L. Nielbo |
+|   | Boolean operators |   |
+| Packaging Code in functions | Function definition  | R.D. Kristensen-McLachlan & K.L. Nielbo |
+|   | Defining vs. calling  |   |
+| Errors and Exceptions | Is Python rude?  | R.D. Kristensen-McLachlan & K.L. Nielbo |
+|   | error handing  |   |
 
 
 ### Introduction to Web Scraping and Crawling ###
@@ -77,12 +85,14 @@ Support _Holiday special_ is an introduction to machine learning with Python (an
 
 | Episode | Content | Instructor |
 | ------ |-------|------------|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Data preparation  | feature engineering | K.L. Nielbo |
+|  | train-test split  |  |
+| Model definition  | task definition | K.L. Nielbo |
+|   | Parameters vs. hyperparameters |  |
+| Model training  | training goal  | K.L. Nielbo |
+|   | training steps  |  |
+| Model evaluation  | performance metrics | K.L. Nielbo |
+|   | validation procedures  |  |
+| Parameter tuning  | hyperparamter tuning  | K.L. Nielbo |
+|   | artform vs science  |  |
+| Application | predictive vs. statistical modeling | K.L. Nielbo |
