@@ -14,7 +14,7 @@ As several of the instructors are are trained Software and Data Carpenters, we r
 ## Workshops at a Glance ##
 | Date    | Time        | Content             | Instructor          |
 | ------- |:-----------:|---------------------| ------------------ |
-| Oct. 23 | 09:00-12:00 | Managing Data with OpenRefine | K.G. Kjelmannm |
+| Oct. 23 | 09:00-12:00 | Managing Data with OpenRefine | K.G. Kjelmann |
 | Oct. 30 | 09:00-12:00 | Basic Scripting with Python* #1 | R.D. Kristensen-McLachlan & K.L. Nielbo |
 | Nov. 12 | 09:00-12:00 | Basic Scripting with Python* #2 | R.D. Kristensen-McLachlan & K.L. Nielbo |
 | Nov. 19 | 12:00-15:00 | Introduction to Web-Scraping | M. Jacomy & K.G. Kjelmannm |
@@ -70,14 +70,14 @@ The workshop introduces to basic internet technology and how to automatically qu
 | ------ |-------|------------|
 | How does the internet work? | The structure of internet and the web: IP, DNS, browser, HTML...   | M. Jacomy |
 |  | What you need to know as a scholar   |   |
-| Accessing the internet with Python | Making a HTTP request | K.G. Kjelmannm |
+| Accessing the internet with Python | Making a HTTP request | K.G. Kjelmann |
 |  | Downloading basic data |   |
 | Parsing HTML with Beautiful Soup in Python | Dealing with web data | K.G. Kjelmannm |
 |  | Writing a simple script |   |
-| Web Crawlers | Differences between scraping and crawling  | M. Jacomy & K.G. Kjelmannm |
+| Web Crawlers | Differences between scraping and crawling  | M. Jacomy & K.G. Kjelmann |
 |  | Different tools for different needs (harvesting, exploring, archiving...) |   |
 |  | An example with the crawler Hyphe |   |
-| Working with the internet | Methodological, ethical and legal considerations |  M. Jacomy & K.G. Kjelmannm |
+| Working with the internet | Methodological, ethical and legal considerations |  M. Jacomy & K.G. Kjelmann |
 
 ### Machine Learning with Python ###
 
