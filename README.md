@@ -2,7 +2,7 @@
 title: Support Workshops for Digital Literacy and Curriculum F20
 place: online
 time: Oct 23, Oct. 30, Nov. 12, Nov. 19, Dec. 4
-instructors: K.G. Kjelmannm, R.D. Kristensen-McLachlan, M. Jacomy, & K.L. Nielbo
+instructors: K.G. Kjelmann, R.D. Kristensen-McLachlan, M. Jacomy, & K.L. Nielbo
 ```
 
 `Support Workshops` are optional hands-on introductions to a technical topic (e.g., data wrangling, web-scraping, machine learning) offered exclusively to course participants on [Digital Literacy](https://dighumlab.org/dl/) and [Digital Curriculum](https://dighumlab.org/dc/). Participation is _optional_ and there is no sign-up, just drop, when a workshop begins. Every workshop requires approximately one hour preparation (see below), but `tech support` offers a pre-workshop preparation _one hour before each workshop_ (e.g., a workshop that starts at 09:00 AM, will offer online pre-workshop preparation at 08:00 AM using the same Zoom room). Zoom links are distributed through Slack and mailing list for participants. For questions, please contact [M. Andesen](mailto:m.andersen@au.dk?subject=[DL2]%20Support%20Workshops%20F20).
