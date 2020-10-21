@@ -18,7 +18,7 @@ As several of the instructors are are trained Software and Data Carpenters, we r
 | Oct. 30 | 09:00-12:00 | Basic Scripting with Python* #1 | R.D. Kristensen-McLachlan & K.L. Nielbo |
 | Nov. 12 | 09:00-12:00 | Basic Scripting with Python* #2 | R.D. Kristensen-McLachlan & K.L. Nielbo |
 | Nov. 19 | 12:00-15:00 | Introduction to Web-Scraping | M. Jacomy & K.G. Kjelmannm |
-| Nov. 04 | 09:00-12:00 | Machine Learning with Python* #1 | R.D. Kristensen-McLachlan & K.L. Nielbo |
+| Dec. 04 | 09:00-12:00 | Machine Learning with Python* #1 | R.D. Kristensen-McLachlan & K.L. Nielbo |
 
 *) To accommodate _R_ users, `tech support` will provide parallel scripts in _R_.
 
